@@ -24,3 +24,4 @@ plot(t, data$Global_active_power, type="l",
 
 #Close png file device
 dev.off()
+
